@@ -1,4 +1,4 @@
-# PixelDrop – Cloud-Native Backend Architecture (AWS)
+# PixelDrop – 3-Tier Cloud-Native Backend Architecture (AWS)
 
 PixelDrop is a cloud-native backend system built to support a wallpaper application with a strong focus on **scalability, reliability, performance, and real-world cloud architecture practices**.
 
