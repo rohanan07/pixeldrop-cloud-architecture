@@ -40,7 +40,7 @@ This phase represents the first production-style deployment of PixelDrop on AWS.
 
 > **Diagram:** PixelDrop Architecture – Core AWS Infrastructure (Without Lambda & CloudFront)
 
-![Initial Architecture Diagram](./)
+![Initial Architecture Diagram](https://github.com/rohanan07/pixeldrop-cloud-architecture/blob/main/pixeldrop-architecture-diagram.jpg)
 
 ### Architecture Explanation
 
