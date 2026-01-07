@@ -99,7 +99,7 @@ To solve the performance and reliability issues related to large image delivery,
 
 > **Diagram:** PixelDrop Architecture – Optimized Image Delivery with Lambda & CloudFront
 
-![Optimized Architecture Diagram](./3775ec03-682a-49ce-bca0-f2cc702e0780.png)
+![Optimized Architecture Diagram](https://github.com/rohanan07/pixeldrop-cloud-architecture/blob/main/pixeldrop-complete-architecture.png)
 
 ### Added Components
 
