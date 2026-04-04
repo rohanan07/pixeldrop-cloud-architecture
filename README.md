@@ -1,4 +1,9 @@
 # PixelDrop – 3-Tier Cloud-Native Backend Architecture (AWS)
+🔗 Related Project Repositories:
+
+[Backend Application & CI/CD Source Code](https://github.com/rohanan07/PixelDrop-Backend-Source-Code.git)
+
+[Infrastructure as Code (Terraform) Source Code](https://github.com/rohanan07/PixelDrop-Terraform-Infra-Source-Code.git)
 
 PixelDrop is a cloud-native backend system built to support a wallpaper application with a strong focus on **scalability, reliability, performance, and real-world cloud architecture practices**.
 
